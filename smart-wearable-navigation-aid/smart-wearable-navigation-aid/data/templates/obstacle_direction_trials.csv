@@ -1,0 +1,4 @@
+trial,obstacle,position(L/C/R),free_side,alert_played,direction_played,correct(Y/N),response_ms,notes
+1,chair,C,L,,,,,
+2,wall corner,R,L,,,,,
+3,person,L,R,,,,,

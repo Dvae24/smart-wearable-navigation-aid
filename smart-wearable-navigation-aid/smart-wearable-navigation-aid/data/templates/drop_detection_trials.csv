@@ -1,0 +1,4 @@
+trial,scenario,drop_height_cm,surface,lighting,detected(Y/N),false_alarm(Y/N),baseline_mm,peak_mm,notes
+1,descending stair edge,15,tile,indoor,,,,,
+2,curb edge,15,concrete,outdoor,,,,,
+3,flat floor walk (control),0,tile,indoor,,,,,

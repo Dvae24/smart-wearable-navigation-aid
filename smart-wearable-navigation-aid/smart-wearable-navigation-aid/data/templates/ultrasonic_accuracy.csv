@@ -1,0 +1,7 @@
+trial,true_distance_cm,measured_cm,abs_error_cm,surface,notes
+1,30,,,,wall
+2,50,,,,wall
+3,80,,,,wall
+4,100,,,,person
+5,150,,,,chair
+6,200,,,,wall

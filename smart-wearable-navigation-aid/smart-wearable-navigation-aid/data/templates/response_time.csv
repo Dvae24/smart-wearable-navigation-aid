@@ -1,0 +1,2 @@
+trial,event(obstacle/drop/stairs),trigger_time_ms,alert_time_ms,latency_ms,notes
+1,,,,,
